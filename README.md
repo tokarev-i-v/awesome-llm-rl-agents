@@ -9,9 +9,13 @@ List of sources related to llms, transformers and reinforcement learning agents
 
 ## [↑](#table-of-contents) Code|Apps|Tools
 
+[Voyager](https://github.com/MineDojo/Voyager) - code for Voyager paper  
 [LangChain](https://github.com/hwchase17/langchain) - library for creating powerful apps and agents with LLMs
 
 ## [↑](#table-of-contents) Papers
+
+25.05.2023 [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291)  
+24.05.2023 [SPRING: GPT-4 Out-performs RL Algorithms by Studying Papers and Reasoning](https://arxiv.org/pdf/2305.15486.pdf)
 
 ## [↑](#table-of-contents) Blogposts
 
