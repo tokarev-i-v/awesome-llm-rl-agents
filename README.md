@@ -11,6 +11,7 @@ List of sources related to llms, transformers and reinforcement learning agents
 
 [Voyager](https://github.com/MineDojo/Voyager) - code for Voyager paper  
 [LangChain](https://github.com/hwchase17/langchain) - library for creating powerful apps and agents with LLMs
+[Gorilla](Gorilla: Large Language Model Connected with Massive APIs) - Gorilla: An API store for LLMs
 
 ## [↑](#table-of-contents) Papers
 
@@ -22,3 +23,4 @@ List of sources related to llms, transformers and reinforcement learning agents
 
   Yoav Goldberg, April 2023 | [Reinforcement Learning for Language Models](https://gist.github.com/yoavg/6bff0fecd65950898eba1bb321cfbd81)  
   2022 | [LISA: Learning Interpretable Skill Abstractions from Language](https://div99.github.io/LISA/)
+  2023 | [Gorilla: Large Language Model Connected with Massive APIs](https://shishirpatil.github.io/gorilla/)
