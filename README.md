@@ -10,8 +10,8 @@ List of sources related to llms, transformers and reinforcement learning agents
 ## [↑](#table-of-contents) Code|Apps|Tools
 
 [Voyager](https://github.com/MineDojo/Voyager) - code for Voyager paper  
-[LangChain](https://github.com/hwchase17/langchain) - library for creating powerful apps and agents with LLMs
-[Gorilla](Gorilla: Large Language Model Connected with Massive APIs) - Gorilla: An API store for LLMs
+[LangChain](https://github.com/hwchase17/langchain) - library for creating powerful apps and agents with LLMs  
+[Gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
 
 ## [↑](#table-of-contents) Papers
 
