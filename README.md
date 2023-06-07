@@ -22,5 +22,5 @@ List of sources related to llms, transformers and reinforcement learning agents
 ## [↑](#table-of-contents) Blogposts
 
   Yoav Goldberg, April 2023 | [Reinforcement Learning for Language Models](https://gist.github.com/yoavg/6bff0fecd65950898eba1bb321cfbd81)  
-  2022 | [LISA: Learning Interpretable Skill Abstractions from Language](https://div99.github.io/LISA/)
-  2023 | [Gorilla: Large Language Model Connected with Massive APIs](https://shishirpatil.github.io/gorilla/)
+  2023 | [Gorilla: Large Language Model Connected with Massive APIs](https://shishirpatil.github.io/gorilla/)  
+  2022 | [LISA: Learning Interpretable Skill Abstractions from Language](https://div99.github.io/LISA/)  
