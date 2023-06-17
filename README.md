@@ -15,7 +15,7 @@ List of sources related to llms, transformers and reinforcement learning agents
 
 ## [↑](#table-of-contents) Papers
 
-06.2023 [Language to Rewards for Robotic Skill Synthesis](https://language-to-reward.github.io/assets/l2r.pdf)
+06.2023 [Language to Rewards for Robotic Skill Synthesis](https://language-to-reward.github.io/assets/l2r.pdf)  
 25.05.2023 [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291)  
 24.05.2023 [SPRING: GPT-4 Out-performs RL Algorithms by Studying Papers and Reasoning](https://arxiv.org/pdf/2305.15486.pdf)  
 30.11.2021 [Show Your Work: Scratchpads for Intermediate Computation with Language Models](https://arxiv.org/abs/2112.00114)  
