@@ -8,7 +8,7 @@ List of sources related to llms, transformers and reinforcement learning agents
  - [Blogposts](#-miscellaneous)
 
 ## [↑](#table-of-contents) Code|Apps|Tools
-
+[GPT Engineer](https://github.com/AntonOsika/gpt-engineer) - GPT Engineer is made to be easy to adapt, extend, and make your agent learn how you want your code to look. It generates an entire codebase based on a prompt.  
 [Voyager](https://github.com/MineDojo/Voyager) - code for Voyager paper  
 [LangChain](https://github.com/hwchase17/langchain) - library for creating powerful apps and agents with LLMs  
 [Gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
