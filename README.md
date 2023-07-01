@@ -8,6 +8,7 @@ List of sources related to llms, transformers and reinforcement learning agents
  - [Blogposts](#-miscellaneous)
 
 ## [↑](#table-of-contents) Code|Apps|Tools
+[AgentGPT](https://github.com/reworkd/AgentGPT) - AgentGPT allows you to configure and deploy Autonomous AI agents. Name your own custom AI and have it embark on any goal imaginable. It will attempt to reach the goal by thinking of tasks to do, executing them, and learning from the results.  
 [LLM Agents](https://github.com/mpaepper/llm_agents) - Small library to build agents which are controlled by large language models (LLMs) which is heavily inspired by langchain.  
 [Baby AGI](https://github.com/yoheinakajima/babyagi) - This Python script is an example of an AI-powered task management system. The system uses OpenAI and vector databases such as Chroma or Weaviate to create, prioritize, and execute tasks.  
 [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) - GPT Engineer is made to be easy to adapt, extend, and make your agent learn how you want your code to look. It generates an entire codebase based on a prompt.  
