@@ -5,7 +5,7 @@ List of sources related to llms, transformers and reinforcement learning agents
 
  - [Code|Apps|Tools](#-code-apps-tools)
  - [Papers](#-papers)
- - [Blogposts](#-miscellaneous)
+ - [Blogposts](#-blogposts)
 
 ## [↑](#table-of-contents) Code|Apps|Tools
 
