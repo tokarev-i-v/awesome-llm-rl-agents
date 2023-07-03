@@ -21,7 +21,7 @@ List of sources related to llms, transformers and reinforcement learning agents
 
 ## [↑](#table-of-contents) Papers
 
-30.06.2023 [Preference Ranking Optimization for Human Alignment](https://arxiv.org/abs/2306.17492)
+30.06.2023 [Preference Ranking Optimization for Human Alignment](https://arxiv.org/abs/2306.17492)  
 10.06.2023 [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366) | ([code](https://github.com/noahshinn024/reflexion))  
 xx.06.2023 [Language to Rewards for Robotic Skill Synthesis](https://language-to-reward.github.io/assets/l2r.pdf)  
 25.05.2023 [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291) | ([code](https://github.com/MineDojo/Voyager))  
