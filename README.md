@@ -1,5 +1,5 @@
-# awesome-llm-agents
-List of sources related to llms, transformers and reinforcement learning agents
+# awesome-ml-agents
+List of sources related to machine learning, llms, transformers and reinforcement learning agents
 
 ## Table of Contents
 
