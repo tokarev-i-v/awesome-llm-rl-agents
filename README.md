@@ -26,6 +26,7 @@ List of sources related to machine learning, llms, transformers and reinforcemen
 xx.06.2023 [Language to Rewards for Robotic Skill Synthesis](https://language-to-reward.github.io/assets/l2r.pdf)  
 25.05.2023 [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291) | ([code](https://github.com/MineDojo/Voyager))  
 24.05.2023 [SPRING: GPT-4 Out-performs RL Algorithms by Studying Papers and Reasoning](https://arxiv.org/pdf/2305.15486.pdf)  
+10.01.2023 [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)  
 08.12.2021 [Improving language models by retrieving from trillions of tokens](https://arxiv.org/abs/2112.04426) | ([code](https://github.com/lucidrains/RETRO-pytorch))  
 30.11.2021 [Show Your Work: Scratchpads for Intermediate Computation with Language Models](https://arxiv.org/abs/2112.00114)  
 20.10.2020 [Local Knowledge Powered Conversational Agents](https://arxiv.org/abs/2010.10150)
