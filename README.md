@@ -31,6 +31,6 @@ List of sources related to llms, transformers and reinforcement learning agents
 ## [↑](#table-of-contents) Blogposts
   
 Yoav Goldberg, April 2023 | [Reinforcement Learning for Language Models](https://gist.github.com/yoavg/6bff0fecd65950898eba1bb321cfbd81)  
+30.03.2023 | [Language Models can Solve Computer Tasks](https://posgnu.github.io/rci-web/) | ([paper](https://arxiv.org/abs/2303.17491)) | ([code](https://github.com/posgnu/rci-agent))  
 2023 | [Gorilla: Large Language Model Connected with Massive APIs](https://shishirpatil.github.io/gorilla/)  
-2023 | [Language Models can Solve Computer Tasks](https://posgnu.github.io/rci-web/) | ([paper](https://arxiv.org/abs/2303.17491)) | ([code](https://github.com/posgnu/rci-agent))  
 2022 | [LISA: Learning Interpretable Skill Abstractions from Language](https://div99.github.io/LISA/)  
