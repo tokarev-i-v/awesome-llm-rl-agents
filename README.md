@@ -26,6 +26,7 @@ List of sources related to machine learning, llms, transformers and reinforcemen
 xx.06.2023 [Language to Rewards for Robotic Skill Synthesis](https://language-to-reward.github.io/assets/l2r.pdf)  
 25.05.2023 [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291) | ([code](https://github.com/MineDojo/Voyager))  
 24.05.2023 [SPRING: GPT-4 Out-performs RL Algorithms by Studying Papers and Reasoning](https://arxiv.org/pdf/2305.15486.pdf)  
+10.03.2023 [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)  
 10.01.2023 [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)  
 08.12.2021 [Improving language models by retrieving from trillions of tokens](https://arxiv.org/abs/2112.04426) | ([code](https://github.com/lucidrains/RETRO-pytorch))  
 30.11.2021 [Show Your Work: Scratchpads for Intermediate Computation with Language Models](https://arxiv.org/abs/2112.00114)  
@@ -35,5 +36,6 @@ xx.06.2023 [Language to Rewards for Robotic Skill Synthesis](https://language-to
   
 Yoav Goldberg, April 2023 | [Reinforcement Learning for Language Models](https://gist.github.com/yoavg/6bff0fecd65950898eba1bb321cfbd81)  
 30.03.2023 | [Language Models can Solve Computer Tasks](https://posgnu.github.io/rci-web/) | ([paper](https://arxiv.org/abs/2303.17491)) | ([code](https://github.com/posgnu/rci-agent))  
+21.02.2023 | [Do Large Language Models (LLMs) reason?](https://www.shaped.ai/blog/do-large-language-models-llms-reason)  
 2023 | [Gorilla: Large Language Model Connected with Massive APIs](https://shishirpatil.github.io/gorilla/)  
 2022 | [LISA: Learning Interpretable Skill Abstractions from Language](https://div99.github.io/LISA/)  
