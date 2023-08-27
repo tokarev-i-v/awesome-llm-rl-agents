@@ -21,6 +21,7 @@ List of sources related to machine learning, llms, transformers and reinforcemen
 
 ## [↑](#table-of-contents) Papers
 
+24.08.2023 [SayCanPay: Heuristic Planning with Large Language Models using Learnable Domain Knowledge](https://arxiv.org/abs/2308.12682) | ([code](https://github.com/RishiHazra/saycanpay)) | ([website](https://rishihazra.github.io/SayCanPay/))  
 30.06.2023 [Preference Ranking Optimization for Human Alignment](https://arxiv.org/abs/2306.17492)  
 10.06.2023 [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366) | ([code](https://github.com/noahshinn024/reflexion))  
 xx.06.2023 [Language to Rewards for Robotic Skill Synthesis](https://language-to-reward.github.io/assets/l2r.pdf)  
